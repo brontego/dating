@@ -1,0 +1,32 @@
+week:
+  start_date: 2026-04-06
+  focus: low_pressure_hinge_use_with_one_real_match_and_a_quality_first_daily_like_cadence
+  status: active
+
+profile_reboot:
+  current_stage: usable_now_light_refresh_only
+  minimum_viable_session_minutes: 10
+  stretch_session_minutes: 15_to_25
+
+priority_outcomes:
+  - send_a_real_first_message_to_anna
+  - average_one_good_like_per_day_without_turning_it_into_a_desperate_quota
+  - keep_screening_quality_higher_than_swipe_volume
+  - cap_app_exposure_so_dating_does_not_swallow_the_week
+
+cadence:
+  minimum_viable:
+    - message_anna_once_with_a_profile_anchored_opener
+    - one_good_like_on_most_days
+    - one_bounded_screening_pass
+  stretch:
+    - light_profile_revision_only_if_something_feels_obviously_stale
+    - one_or_two_reply_drafts_if_a_real_thread_opens
+
+guardrails:
+  - no_checking_without_taking_a_real_action
+  - no_endless_checking_loops
+  - no_spending_spiral_just_because_dating_is_reactivated
+  - no_perfect_profile_before_first_use
+  - no_low_quality_likes_just_to_protect_the_streak
+  - no_forcing_high_volume_if_the_system_starts_feeling_heavy

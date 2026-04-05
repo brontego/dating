@@ -1,0 +1,9 @@
+review_window:
+  date: 2026-04-04
+
+conversations: []
+
+notes:
+  - anna_stays_in_current_matches_until_the_first_message_is_sent_and_a_real_thread_exists
+  - add_active_threads_here_when_you_want_reply_help_or_pacing_support
+  - if_this_stays_empty_for_a_while_that_is_fine_the_system_is_still_useful

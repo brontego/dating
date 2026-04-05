@@ -1,0 +1,25 @@
+system: dating
+week_of: 2026-04-06
+status: yellow
+next_required_update_by: 2026-04-12
+active_goals:
+  - send_the_first_message_to_anna_in_a_low_pressure_way
+  - use_a_one_good_like_per_day_quality_cadence_without_turning_it_into_a_quota_game
+  - keep_hinge_use_bounded_to_real_actions_not_background_checking
+  - preserve_a_human_specific_messaging_voice
+capacity_demand:
+  time_hours: 1.0
+  cognitive_load: low_medium
+risks:
+  - dating_reentry_can_become_another_pressure_stack_instead_of_a_light_experiment
+  - overthinking_the_first_message_to_anna_can_delay_the_only_real_next_step
+  - the_daily_like_goal_can_drift_into_low_signal_quota_behavior_if_quality_is_not_kept_primary
+  - messaging_can_get_overautomated_and_stop_sounding_like_you
+  - dating_momentum_could_trigger_premature_spending_or_apartment_optimization_pressure
+requests_for_other_systems:
+  - oversystem: keep_dating_in_a_small_bounded_lane_this_week
+  - budgeting: treat_hinge_reboot_as_low_cost_by_default
+  - household: only_promote_small_immediate_presentation_tasks_not_bedroom_overhauls
+lessons_candidate:
+  - one_real_message_to_one_real_match_is_more_valuable_than_theoretical_profile_optimization
+  - a_one_good_like_per_day_quality_floor_is_better_than_open_ended_swiping
