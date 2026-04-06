@@ -36,3 +36,8 @@ Use Hinge in a real but bounded way without turning it into another pressure pil
 - at least `5` good likes go out across the week unless the queue is unusually weak
 - screening rules stay in force
 - dating reentry stays bounded and does not crush the rest of the reboot
+
+## Live status
+
+- Monday, April 6, 2026: `1` quality like already sent
+- Monday, April 6, 2026: no new Anna messages, which is acceptable because the date is already set and the thread does not need forced maintenance

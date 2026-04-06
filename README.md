@@ -13,6 +13,7 @@ It exists to reduce overwhelm, not to turn dating into another full-time admin j
 
 ## Core files
 
+- `context/workflow.md`
 - `state/current_week.yaml`
 - `state/subsystem_snapshot.yaml`
 - `deliverables/current/hinge_reboot.md`

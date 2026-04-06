@@ -33,3 +33,9 @@ guardrails:
   - no_perfect_profile_before_first_use
   - no_low_quality_likes_just_to_protect_the_streak
   - no_forcing_high_volume_if_the_system_starts_feeling_heavy
+
+live_checkins:
+  - date: 2026-04-06
+    anna_thread_status: no_new_messages_today_and_that_is_fine_because_the_date_is_already_set
+    quality_likes_sent: 1
+    note: monday_quality_like_goal_is_already_banked
