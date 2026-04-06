@@ -1,7 +1,7 @@
 week:
   start_date: 2026-04-06
-  focus: low_pressure_hinge_use_with_one_real_match_and_a_quality_first_daily_like_cadence
-  status: active
+  focus: low_pressure_hinge_use_with_a_real_sunday_2026_04_12_coffee_date_and_a_quality_first_daily_like_cadence
+  status: active_with_first_date_scheduled
 
 profile_reboot:
   current_stage: usable_now_light_refresh_only
@@ -9,23 +9,26 @@ profile_reboot:
   stretch_session_minutes: 15_to_25
 
 priority_outcomes:
-  - send_a_real_first_message_to_anna
+  - maintain_interest_with_anna_without_overtexting_before_the_sunday_2026_04_12_10_30_am_date
+  - show_up_well_for_the_sunday_2026_04_12_10_30_am_bookshop_coffee_date
   - average_one_good_like_per_day_without_turning_it_into_a_desperate_quota
   - keep_screening_quality_higher_than_swipe_volume
   - cap_app_exposure_so_dating_does_not_swallow_the_week
 
 cadence:
   minimum_viable:
-    - message_anna_once_with_a_profile_anchored_opener
+    - keep_the_thread_with_anna_light_warm_and_human_before_the_date
+    - confirm_logistics_only_if_needed_not_as_a_nervous_loop
     - one_good_like_on_most_days
     - one_bounded_screening_pass
   stretch:
     - light_profile_revision_only_if_something_feels_obviously_stale
-    - one_or_two_reply_drafts_if_a_real_thread_opens
+    - one_or_two_light_reply_drafts_if_the_thread_with_anna_needs_help_staying_easy
 
 guardrails:
   - no_checking_without_taking_a_real_action
   - no_endless_checking_loops
+  - no_overtexting_or_premature_relationship_projection_before_the_first_date
   - no_spending_spiral_just_because_dating_is_reactivated
   - no_perfect_profile_before_first_use
   - no_low_quality_likes_just_to_protect_the_streak

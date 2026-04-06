@@ -4,18 +4,22 @@ review_window:
 matches:
   - name: Anna
     platform: hinge
-    status: matched_not_messaged
-    priority: first_outbound_message
-    next_action: send_one_profile_anchored_opener_in_the_next_bounded_hinge_block
-    opener_rule: one_specific_observation_plus_one_question
+    status: first_date_planned
+    priority: maintain_interest_and_show_up_well
+    next_action: keep_the_thread_light_confirm_logistics_only_if_needed_and_show_up_for_coffee_on_2026_04_12_at_10_30_am
+    opener_rule: no_longer_an_opener_problem_keep_messages_short_human_and_not_overeager
+    planned_date: 2026-04-12
+    planned_time: 10:30 AM
+    planned_plan: coffee_at_a_bookshop_coffee_shop
     notes:
       - architect_with_a_design_our_dream_house_prompt
       - simple_pleasures_include_biking_farmers_markets_reading_day_video_games_and_music
       - wants_someone_who_will_ride_ragbrai_with_me
       - profile_vibe_wholesome_midwestern_cultured_outdoorsy_nerd
       - strong_hooks_are_ragbrai_biking_architecture_travel_photography_reading_games_and_cat_energy
-      - best_message_direction_is_ragbrai_or_dream_house_not_generic_complimenting
+      - first_date_is_set_for_sunday_2026_04_12_at_10_30_am_over_coffee_at_a_bookshop_coffee_shop
+      - between_now_and_the_date_the_job_is_interest_maintenance_not_constant_texting
 
 notes:
-  - current_match_inventory_should_reflect_real_people_even_if_the_thread_has_not_started_yet
+  - current_match_inventory_should_reflect_real_people_and_real_date_plans_not_just_unopened_threads
   - do_not_create_fake_inventory_just_to_make_the_system_feel_busy

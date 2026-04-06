@@ -2,28 +2,27 @@
 
 Use these as patterns, not scripts.
 
-## Current priority: Anna
+## Current priority: Anna follow-through
 
-- best default: one specific observation from her profile plus one easy question
-- do not write a whole bit; one warm line and one question is enough
-- if the profile is too thin for a real observation, use a simple vibe-forward opener instead of waiting forever
-- strongest hooks: ragbrai, biking, dream house, architect energy
-- avoid opening on generic travel or cat appreciation when the bike and design signals are much stronger
+- Anna is no longer an opener problem; the real date is scheduled for Sunday, April 12, 2026 at `10:30 AM`
+- from here the job is light interest maintenance and easy logistics, not proving wit
+- strongest hooks still remain ragbrai, biking, dream house, and architect energy if the thread needs a small nudge
+- avoid turning the pre-date thread into a constant texting obligation
 
-### Anna opener options
+### Anna thread nudges if needed before the date
 
-- recommended: "Your `will ride RAGBRAI with me` line felt like extremely strong Iowa propaganda. What is your ideal RAGBRAI setup: whole week chaos goblin or selectively showing up for the best parts?"
-- alt: "The `design our dream house` prompt is dangerous architect bait. What is the one non-negotiable feature your dream house has to have?"
-- alt: "Your profile has a very convincing cultured-outdoorsy-nerd thing going on. Which is more central to the operation right now: biking, design, or reading-day?"
+- "Looking forward to next Sunday. I still think your `ride RAGBRAI with me` line is extremely strong Iowa propaganda."
+- "The dream-house prompt is still making me curious what your one non-negotiable feature would be."
+- "You continue to have a very convincing cultured-outdoorsy-nerd brand."
 
-### Anna fallback opener if the signal suddenly feels thinner in-app
+### Anna fallback if the thread ever needs a reset before the date
 
 - "Hey Anna, you seem like you have a real point of view, which I appreciated. What are you most likely to get overenthusiastic about on short notice?"
 
 ### Recommended send note
 
-- use the RAGBRAI opener first because it is the cleanest mutual-interest hook and sounds the most alive
-- send it as written or trim it slightly, but do not expand it into a paragraph
+- keep anything pre-date short, warm, and non-needy
+- one good message beats trying to simulate chemistry by text
 
 ## Observation opener
 

@@ -1,10 +1,10 @@
 # Reply Drafts
 
-## Anna follow-up if she answers the RAGBRAI opener
+## Anna pre-date maintenance
 
-- "That is a strong answer. You sound like someone who has thought about this enough to be trusted with route opinions."
-- "Okay, that does sound fun. Are you in it for the riding, the people, or the weird little town-stop energy?"
-- "You are making a pretty compelling case for the bike version of summer camp."
+- "Nice, that sounds good. Looking forward to it."
+- "Perfect. Sunday at `10:30` works for me."
+- "That sounds fun. I am looking forward to meeting you."
 
 ## Keep momentum
 
@@ -26,3 +26,4 @@
 
 Keep replies human, short, and curious.
 Do not overprove wit.
+Do not text like you are trying to pre-play the whole date.
