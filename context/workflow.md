@@ -52,7 +52,7 @@ Keep dating supportive, bounded, and reality-based. The system should reduce imp
 - no fake quota behavior just to make the system feel busy
 - no overtexting before a first date
 - no spending spiral because dating is active again
-- no apartment or wardrobe escalation unless another subsystem explicitly confirms the need
+- no apartment or Mercer escalation unless another subsystem explicitly confirms the need
 - no over-automating messages until they stop sounding like you
 
 ## Cross-System Rule
