@@ -41,3 +41,11 @@ Use Hinge in a real but bounded way without turning it into another pressure pil
 
 - Monday, April 6, 2026: `1` quality like already sent
 - Monday, April 6, 2026: no new Anna messages, which is acceptable because the date is already set and the thread does not need forced maintenance
+- Friday, April 10, 2026: Anna has left the thread on read since Tuesday, so Saturday should carry one light logistics confirmation rather than waiting until Sunday morning or spiraling on Friday night
+
+## Anna confirmation rule
+
+- If Anna has not replied by Saturday, send one short confirmation message and stop there.
+- Goal: verify the Sunday, April 12, 2026 `10:30 AM` coffee date without sounding anxious or overeager.
+- Best timing: Saturday late morning or early afternoon.
+- Example tone: `Hey, just confirming we're still on for coffee Sunday at 10:30 at [place].`

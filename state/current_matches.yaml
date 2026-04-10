@@ -6,7 +6,7 @@ matches:
     platform: hinge
     status: first_date_planned
     priority: maintain_interest_and_show_up_well
-    next_action: keep_the_thread_light_confirm_logistics_only_if_needed_and_show_up_for_coffee_on_2026_04_12_at_10_30_am
+    next_action: send_one_light_saturday_confirmation_if_the_thread_is_still_silent_so_the_sunday_2026_04_12_10_30_am_coffee_date_is_verified_without_getting_overeager
     opener_rule: no_longer_an_opener_problem_keep_messages_short_human_and_not_overeager
     planned_date: 2026-04-12
     planned_time: 10:30 AM
@@ -20,6 +20,7 @@ matches:
       - first_date_is_set_for_sunday_2026_04_12_at_10_30_am_over_coffee_at_a_bookshop_coffee_shop
       - between_now_and_the_date_the_job_is_interest_maintenance_not_constant_texting
       - no_new_messages_on_2026_04_06_is_not_a_problem_because_the_date_is_already_booked
+      - by_friday_2026_04_10_the_thread_has_been_silent_since_tuesday_so_the_right_move_is_one_light_logistics_confirmation_on_saturday_not_panicked_double_texting_on_friday_night
 
 notes:
   - current_match_inventory_should_reflect_real_people_and_real_date_plans_not_just_unopened_threads
