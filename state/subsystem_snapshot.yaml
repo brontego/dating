@@ -5,6 +5,7 @@ next_required_update_by: 2026-04-12
 active_goals:
   - keep_the_sunday_2026_04_12_10_30_am_coffee_date_with_anna_easy_and_on_track
   - maintain_interest_with_anna_without_overtexting_before_the_date
+  - if_anna_is_still_silent_on_saturday_send_one_light_confirmation_and_stop
   - use_a_one_good_like_per_day_quality_cadence_without_turning_it_into_a_quota_game
   - keep_hinge_use_bounded_to_real_actions_not_background_checking
   - preserve_a_human_specific_messaging_voice
@@ -14,9 +15,14 @@ capacity_demand:
 risks:
   - dating_reentry_can_become_another_pressure_stack_instead_of_a_light_experiment
   - overtexting_before_the_first_date_could_make_the_thread_feel_heavier_than_it_needs_to
+  - silence_until_saturday_could_trigger_overeager_confirmation_behavior_if_the_rule_is_not_kept_tight
   - the_daily_like_goal_can_drift_into_low_signal_quota_behavior_if_quality_is_not_kept_primary
   - messaging_can_get_overautomated_and_stop_sounding_like_you
   - dating_momentum_could_trigger_premature_spending_or_apartment_optimization_pressure
+cross_system_checks:
+  - open | one_way | target=budgeting | topic=date_cost_signal | need=Dating should warn Steward if the Sunday date or any follow-up momentum changes spending pressure.
+  - open | one_way | target=household | topic=pre_date_presentation_scope | need=Dating should only pull forward small presentation tasks instead of letting date anxiety trigger an apartment overhaul.
+  - open | one_way | target=mercer | topic=event_outfit_need | need=If a real outfit problem appears, Dating should hand Mercer the dress code, weather, and desired impression instead of solving it ad hoc.
 requests_for_other_systems:
   - oversystem: keep_dating_in_a_small_bounded_lane_this_week
   - budgeting: treat_hinge_reboot_as_low_cost_by_default
@@ -24,3 +30,4 @@ requests_for_other_systems:
 lessons_candidate:
   - once_a_real_date_is_on_the_calendar_the_system_should_shift_from_opener_pressure_to_light_pre_date_maintenance
   - a_one_good_like_per_day_quality_floor_is_better_than_open_ended_swiping
+  - one_light_confirmation_is_better_than_friday_night_panicked_double_texting
