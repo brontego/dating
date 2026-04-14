@@ -1,10 +1,10 @@
 # Question Queue
 
-- What kind of relationship pace feels right right now?
-- What kind of person reliably makes you curious instead of just impressed?
-- What profile details are you proud to lead with?
-- What kinds of openers sound most like you:
-  playful, direct, observational, or lightly flirty?
-- What would make dating feel supportive instead of overwhelming this month?
-- What is the easiest real profile hook for Anna's first message?
-- What time of day makes it most likely that you will actually send the first message instead of polishing it?
+- What parts of your current profile feel most like you, and what parts feel thin or generic?
+- What kind of relationship are you actually trying to build this year?
+- What kinds of people make you curious instead of just impressed?
+- What kinds of first messages sound most like you: playful, direct, observational, warm, or lightly flirty?
+- What details about your week-to-week life should a dating copilot know so it does not suggest fake or inconvenient plans?
+- What values, habits, or life rhythms matter more than they are currently getting credit for?
+- What turns you off quickly in a profile or early conversation?
+- What would make dating feel supportive instead of like another performance system?

@@ -1,6 +1,6 @@
 # Profile Version
 
-Current status: usable_enough_for_live_use_but_not_formally_audited_during_the_reboot.
+Current status: usable_enough_for_live_use_and_now_getting_a_text_based_context_packet_for_the_chatgpt_project.
 
 ## First-pass audit checklist
 
@@ -12,5 +12,6 @@ Current status: usable_enough_for_live_use_but_not_formally_audited_during_the_r
 
 ## Current note
 
-There is already at least one real match in the queue, so do not block use on a full profile overhaul.
-Do one honest pass only if something feels obviously stale.
+Do not block live use on a full profile overhaul.
+The next useful layer is a cleaner text representation of who you are, what your profile is signaling, and what kinds of partners or conversations actually fit.
+Use `deliverables/current/profile_source_packet.md` plus `deliverables/current/self_interview_prompt.md` to build that context without rewriting the whole profile from scratch.

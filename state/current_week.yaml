@@ -1,41 +1,49 @@
 week:
-  start_date: 2026-04-06
-  focus: low_pressure_hinge_use_with_a_real_sunday_2026_04_12_coffee_date_and_a_quality_first_daily_like_cadence
-  status: active_with_first_date_scheduled
+  start_date: 2026-04-13
+  focus: recover_cleanly_from_the_anna_followup_collapse_build_the_chatgpt_dating_copilot_and_keep_hinge_bounded_and_human
+  status: setback_recovery_plus_process_upgrade
 
 profile_reboot:
-  current_stage: usable_now_light_refresh_only
+  current_stage: usable_now_plus_ai_context_buildout
   minimum_viable_session_minutes: 10
   stretch_session_minutes: 15_to_25
 
 priority_outcomes:
-  - maintain_interest_with_anna_without_overtexting_before_the_sunday_2026_04_12_10_30_am_date
-  - show_up_well_for_the_sunday_2026_04_12_10_30_am_bookshop_coffee_date
-  - average_one_good_like_per_day_without_turning_it_into_a_desperate_quota
+  - process_the_anna_disappointment_without_chasing_or_turning_it_into_a_story_about_personal_defeat
+  - build_the_chatgpt_project_inputs_so_openers_and_replies_have_lower_friction_but_keep_your_real_voice
+  - reopen_hinge_in_a_bounded_way_after_the_setback_instead_of_using_it_as_numbing_or_proof
+  - send_quality_likes_or_openers_only_when_they_are_real_not_as_a_daily_self_worth_quota
   - keep_screening_quality_higher_than_swipe_volume
   - cap_app_exposure_so_dating_does_not_swallow_the_week
 
 cadence:
   minimum_viable:
-    - keep_the_thread_with_anna_light_warm_and_human_before_the_date
-    - confirm_logistics_only_if_needed_not_as_a_nervous_loop
-    - one_good_like_on_most_days
-    - one_bounded_screening_pass
+    - treat_the_anna_lane_as_likely_closed_unless_a_new_clear_signal_appears
+    - build_the_profile_source_packet_and_self_interview_prompt
+    - do_one_bounded_screening_or_opener_block_not_an_endless_app_session
+    - keep_app_use_attached_to_real_actions
   stretch:
-    - light_profile_revision_only_if_something_feels_obviously_stale
-    - one_or_two_light_reply_drafts_if_the_thread_with_anna_needs_help_staying_easy
+    - finish_the_chatgpt_project_instructions_and_opener_workflow
+    - do_one_light_profile_refresh_only_if_the_ai_context_build_reveals_an_obvious_gap
+    - send_one_or_two_good_likes_after_the_system_feels_human_again
 
 guardrails:
   - no_checking_without_taking_a_real_action
   - no_endless_checking_loops
-  - no_overtexting_or_premature_relationship_projection_before_the_first_date
-  - no_spending_spiral_just_because_dating_is_reactivated
+  - no_chasing_anna_after_the_followup_lane_collapsed
+  - no_rebound_swiping_or_mass_liking_to_numb_the_hit
+  - no_turning_ai_into_a_generic_pickup_artist_machine
+  - no_spending_spiral_because_one_promising_lane_hurt_or_because_the_coffee_table_is_already_ordered
   - no_perfect_profile_before_first_use
   - no_low_quality_likes_just_to_protect_the_streak
   - no_forcing_high_volume_if_the_system_starts_feeling_heavy
 
 live_checkins:
-  - date: 2026-04-06
-    anna_thread_status: no_new_messages_today_and_that_is_fine_because_the_date_is_already_set
-    quality_likes_sent: 1
-    note: monday_quality_like_goal_is_already_banked
+  - date: 2026-04-12
+    anna_thread_status: first_date_went_well_and_that_part_should_still_count_even_though_it_did_not_turn_into_stable_momentum
+    quality_likes_sent: pending
+    note: the_good_date_result_was_real_and_it_is_still_worth_remembering_even_if_the_followup_did_not_hold
+  - date: 2026-04-14
+    anna_thread_status: followup_lane_collapsed_after_the_good_first_date_so_the_job_is_now_to_move_on_cleanly_without_chasing
+    quality_likes_sent: pending
+    note: use_the_setback_to_build_a_lower_friction_higher_quality_dating_workflow_instead_of_treating_it_as_proof_that_the_system_failed

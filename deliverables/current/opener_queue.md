@@ -2,27 +2,21 @@
 
 Use these as patterns, not scripts.
 
-## Current priority: Anna follow-through
+## Current priority: reopen cleanly after the Anna setback
 
-- Anna is no longer an opener problem; the real date is scheduled for Sunday, April 12, 2026 at `10:30 AM`
-- from here the job is light interest maintenance and easy logistics, not proving wit
-- strongest hooks still remain ragbrai, biking, dream house, and architect energy if the thread needs a small nudge
-- avoid turning the pre-date thread into a constant texting obligation
+- Anna is no longer an opener target.
+- The current job is to use this queue for new matches and keep the messages human.
+- Best opener test: one clear observation, one real hook, one question max.
+- The goal is interest and momentum, not proving intelligence in the first message.
 
-### Anna thread nudges if needed before the date
+## Best-opener principles
 
-- "Looking forward to next Sunday. I still think your `ride RAGBRAI with me` line is extremely strong Iowa propaganda."
-- "The dream-house prompt is still making me curious what your one non-negotiable feature would be."
-- "You continue to have a very convincing cultured-outdoorsy-nerd brand."
-
-### Anna fallback if the thread ever needs a reset before the date
-
-- "Hey Anna, you seem like you have a real point of view, which I appreciated. What are you most likely to get overenthusiastic about on short notice?"
-
-### Recommended send note
-
-- keep anything pre-date short, warm, and non-needy
-- one good message beats trying to simulate chemistry by text
+- use something they chose to show: prompt, caption, photo context, hobby, or values clue
+- stay specific enough that it could not be pasted onto ten other profiles
+- keep it short enough to read in one breath
+- lead with curiosity, not evaluation
+- avoid body-first comments, generic beauty compliments, or resume interrogation
+- a little playfulness is good; trying to sound like a stand-up set is not
 
 ## Observation opener
 
@@ -44,8 +38,20 @@ Use these as patterns, not scripts.
 
 - "Your `___` photo makes it look like you actually leave the house and do interesting things. How accurate is that propaganda?"
 
+## Values or personality opener
+
+- "You seem like you have a real point of view, which I appreciated. What are you most likely to get overenthusiastic about on short notice?"
+
 ## Rule
 
 Pick one clear angle.
 One question is enough.
 Sending a real message beats polishing the queue again.
+
+## Optional visual-distinctiveness move
+
+- One light emoji can help if an opener feels clean but visually plain.
+- A weird fruit emoji gimmick is optional.
+- Best version: exactly one emoji at the end, often something odd and low-stakes like `🍒`, `🍊`, or `🍓`.
+- Reason: it can make the message look a little different in an inbox full of generic DMs and create a tiny bit of intrigue.
+- Guardrails: spamming emojis is juvenile, and sexual emojis too early are tacky.
