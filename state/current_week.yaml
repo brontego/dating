@@ -47,3 +47,7 @@ live_checkins:
     anna_thread_status: followup_lane_collapsed_after_the_good_first_date_so_the_job_is_now_to_move_on_cleanly_without_chasing
     quality_likes_sent: pending
     note: use_the_setback_to_build_a_lower_friction_higher_quality_dating_workflow_instead_of_treating_it_as_proof_that_the_system_failed
+  - date: 2026-04-16
+    anna_thread_status: still_closed_and_now_important_enough_to_avoid_high_variance_in_person_overlap_if_possible
+    quality_likes_sent: pending
+    note: skipping_fleet_feet_is_a_good_boundary_call_because_a_surprise_run_in_would_be_more_disruptive_than_the_social_experiment_is_helpful_right_now

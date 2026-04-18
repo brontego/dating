@@ -51,3 +51,4 @@ Use Hinge in a real but bounded way without turning it into another pressure pil
 - Count the date as real progress and real evidence that you can connect with someone good.
 - Do not chase, overinterpret, or try to win the thread back with cleverness.
 - Let the system learn from the good parts and redirect energy into better queue management and better opener support.
+- Do not force accidental in-person exposure if there is a real chance of running into her while the hit is still active; skipping a high-variance setting is a clean boundary, not cowardice.
