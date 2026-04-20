@@ -1,32 +1,25 @@
 system: dating
-week_of: 2026-04-13
-status: yellow
-next_required_update_by: 2026-04-15
+week_of: 2026-04-20
+status: green
+next_required_update_by: 2026-04-27
 active_goals:
-  - process_the_anna_setback_without_chasing_or_concluding_that_the_whole_lane_is_hopeless
-  - build_the_chatgpt_dating_copilot_inputs_and_usage_rules
-  - keep_hinge_use_bounded_to_real_actions_not_background_checking
-  - keep_openers_specific_human_and_lower_friction
-  - preserve_a_human_specific_messaging_voice
+  - keep_dating_optional_and_bounded_during_work_travel
+  - preserve_the_chatgpt_dating_copilot_and_flirty_practice_lanes_without_forcing_output
+  - avoid_rebound_swiping_or_background_checking_when_travel_stress_hits
+  - treat_any_hinge_use_as_one_small_real_action_block
 capacity_demand:
-  time_hours: 1.5
-  cognitive_load: low_medium
+  time_hours: 0.5
+  cognitive_load: low
 risks:
-  - dating_reentry_can_become_another_pressure_stack_instead_of_a_light_experiment
-  - a_promising_lane_collapsing_after_a_good_first_date_can_trigger_doom_storytelling_or_rebound_swiping
-  - ai_help_can_become_overautomation_if_it_stops_sounding_like_you
-  - the_daily_like_goal_can_drift_into_low_signal_quota_behavior_if_quality_is_not_kept_primary
-  - messaging_can_get_overautomated_and_stop_sounding_like_you
-  - disappointment_can_trigger_premature_spending_or_apartment_optimization_as_a_coping_move
+  - travel_stress_can_turn_hinge_into_numbing_or_background_checking
+  - anna_disappointment_can_still_trigger_rebound_swiping_or_doom_storytelling
+  - flirty_practice_can_become_performance_pressure_if_it_is_required_during_a_survival_week
 cross_system_checks:
-  - aligned | one_way | target=budgeting | topic=post_setback_spend_signal | need=Dating should tell Steward that the good first date did not convert into stable momentum, so any apartment fast-track after the already ordered coffee table should become deliberate again instead of urgency-driven.
-  - open | one_way | target=household | topic=apartment_readiness_scope | need=Dating should keep apartment work staged and small instead of using disappointment or hope as a reason to overhaul the whole place.
-  - open | one_way | target=mercer | topic=event_outfit_need | need=If a real outfit problem appears, Dating should hand Mercer the dress code, weather, and desired impression instead of solving it ad hoc.
+  - aligned | one_way | target=budgeting | topic=low_cost_optional | need=Dating and flirty practice should stay optional and low-cost during travel week.
+  - aligned | one_way | target=oversystem | topic=bounded_attention | need=Dross should not treat dating output as required this week.
 requests_for_other_systems:
-  - oversystem: keep_dating_in_a_small_bounded_lane_while_the_anna_disappointment_cools_down
-  - budgeting: keep_the_coffee_table_as_done_but_do_not_assume_sheet_set_or_dresser_urgency_is_still_dating_driven
-  - household: only_promote_high_leverage_apartment_readiness_tasks_not_a_full_overhaul
+  - oversystem: keep_dating_optional_during_travel_week
+  - budgeting: do_not_interpret_dating_as_a_reason_for_new_presentation_spend_this_week
 lessons_candidate:
-  - a_good_first_date_is_real_progress_even_if_it_does_not_turn_into_a_second_date
-  - a_dating_copilot_should_reduce_friction_without_flattening_personality
-  - when_one_promising_lane_ends_the_right_system_response_is_bounded_reopening_not_all_or_nothing_reaction
+  - flirty_practice_can_stay_available_without_becoming_a_weekly_obligation
+  - travel_week_dating_success_is_bounded_attention_not_output

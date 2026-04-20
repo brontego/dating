@@ -1,7 +1,7 @@
 week:
-  start_date: 2026-04-13
-  focus: recover_cleanly_from_the_anna_followup_collapse_build_the_chatgpt_dating_copilot_and_keep_hinge_bounded_and_human
-  status: setback_recovery_plus_process_upgrade
+  start_date: 2026-04-20
+  focus: travel_week_survival_keep_dating_bounded_and_optional_while_preserving_the_new_copilot_and_flirty_practice_lanes
+  status: travel_week_survival
 
 profile_reboot:
   current_stage: usable_now_plus_ai_context_buildout
@@ -9,23 +9,20 @@ profile_reboot:
   stretch_session_minutes: 15_to_25
 
 priority_outcomes:
-  - process_the_anna_disappointment_without_chasing_or_turning_it_into_a_story_about_personal_defeat
-  - build_the_chatgpt_project_inputs_so_openers_and_replies_have_lower_friction_but_keep_your_real_voice
-  - reopen_hinge_in_a_bounded_way_after_the_setback_instead_of_using_it_as_numbing_or_proof
-  - send_quality_likes_or_openers_only_when_they_are_real_not_as_a_daily_self_worth_quota
-  - keep_screening_quality_higher_than_swipe_volume
-  - cap_app_exposure_so_dating_does_not_swallow_the_week
+  - keep_dating_optional_during_travel_week_instead_of_turning_it_into_another_required_lane
+  - preserve_the_chatgpt_project_and_flirty_practice_setup_without_forcing_output
+  - use_any_hinge_time_as_a_bounded_action_block_not_a_background_checking_loop
+  - avoid_using_travel_stress_or_anna_disappointment_as_a_reason_for_rebound_swiping
 
 cadence:
   minimum_viable:
     - treat_the_anna_lane_as_likely_closed_unless_a_new_clear_signal_appears
-    - build_the_profile_source_packet_and_self_interview_prompt
-    - do_one_bounded_screening_or_opener_block_not_an_endless_app_session
+    - no_required_app_block_during_travel
+    - if_an_app_block_happens_keep_it_to_10_to_15_minutes_and_one_real_action
     - keep_app_use_attached_to_real_actions
   stretch:
-    - finish_the_chatgpt_project_instructions_and_opener_workflow
-    - do_one_light_profile_refresh_only_if_the_ai_context_build_reveals_an_obvious_gap
-    - send_one_or_two_good_likes_after_the_system_feels_human_again
+    - one_short_flirty_practice_block_if_it_feels_fun_and_grounding
+    - one_quality_like_or_opener_only_if_the_queue_is_actually_good
 
 guardrails:
   - no_checking_without_taking_a_real_action
@@ -37,8 +34,29 @@ guardrails:
   - no_perfect_profile_before_first_use
   - no_low_quality_likes_just_to_protect_the_streak
   - no_forcing_high_volume_if_the_system_starts_feeling_heavy
+  - no_turning_flirty_practice_into_pickup_artist_roleplay_or_rehearsed_weirdness
+
+flirty_practice:
+  status: active_but_optional_during_travel_week
+  aim: build_light_playful_energy_and_banter_capacity_without_losing_your_actual_voice
+  cadence:
+    minimum_viable: 1_small_block_per_week_when_capacity_exists
+    good_target: about_1_to_2_blocks_per_week_not_daily_drilling
+  allowed_inputs:
+    - short_youtube_clip_or_other_dating_communication_content_for_signal_gathering
+    - https_colon_slash_slash_charismaoncommand_university_slash
+    - chatgpt_line_reps_and_rewrites
+  practice_formats:
+    - study_one_small_idea_then_write_3_to_5_lines_in_your_own_voice
+    - say_a_few_lines_out_loud_so_you_can_hear_if_they_sound_like_you
+    - use_chatgpt_to_rewrite_try_hard_lines_into_warmer_more_human_versions
+  success_rule: more_comfort_with_light_playfulness_not_a_finished_script_bank
 
 live_checkins:
+  - date: 2026-04-20
+    anna_thread_status: still_closed
+    quality_likes_sent: not_required
+    note: travel_week_is_survival_mode_so_dating_and_flirty_practice_are_optional_support_lanes_not_required_progress
   - date: 2026-04-12
     anna_thread_status: first_date_went_well_and_that_part_should_still_count_even_though_it_did_not_turn_into_stable_momentum
     quality_likes_sent: pending
