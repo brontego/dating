@@ -1,65 +1,58 @@
 # Hinge Reboot
 
-Week of April 20, 2026
+Week of April 27, 2026
 
 ## Objective
 
-Use Hinge and flirty practice only as optional support during a work-travel survival week. The goal is to keep the dating system alive without adding pressure.
+Run dating as a calm real-date week, not as a travel survival lane and not as a rebound theater.
 
-## Minimum viable reboot
+## Minimum Viable Reboot
 
-1. Do not chase Anna or keep reopening that thread mentally.
-2. No required app block during travel.
-3. If you do use Hinge, keep it to one bounded action block.
-4. If flirty practice happens, keep it playful and short.
+1. Keep the two booked dates clean and low-drama.
+2. Get Rachel and Hannah to a clear yes, no, or still-pending state without chasing.
+3. Export the real conversation state from ChatGPT web so the local system can track live people honestly.
+4. Keep flirty practice optional and secondary to actual date execution.
 
-## Time caps
+## Time Caps
 
-- daily app block: optional, `10 to 15` minutes max
-- screening pass: `10 to 15` minutes
-- project build block: deferred unless travel has easy downtime
-- profile pass: `10 to 20` minutes only if needed
-- flirty practice block: `10 to 20` minutes and not mandatory every day
+- logistics or planning pass: `10 to 15` minutes
+- one export session from ChatGPT web per person: `10 to 20` minutes
+- flirty practice block: optional `10 to 20` minutes
+- no endless app checking loops
 
 ## Guardrails
 
-- no checking the app just to check it
-- no doom-swiping
-- no rebound-liking just because one promising lane hurt
-- no generic likes just to hit the daily number
-- no spending spiral because one date went well and then fizzled
-- no outsourcing your whole personality to AI
-- no rewriting everything because of one disappointment
-- no app checking as a background compulsion
-- no overtexting or vague last-ditch rescue behavior
-- no turning flirty practice into pickup-artist cosplay or line-hoarding
+- no overtexting before a first date
+- no turning two dates into overbooking chaos
+- no comparing every new person to Anna in real time
+- no spending spiral because there are dates on the calendar
+- no rewriting your whole personality for different women
+- no outsourcing judgment to AI
+- no vague "just checking in" messages when you are actually seeking reassurance
 
-## What counts as success this week
+## What Counts As Success This Week
 
-- the Anna lane is not reopened by stress
-- app use stays optional and bounded
-- flirty practice stays fun if it happens
-- travel week does not become rebound-swiping week
-- dating does not compete with work travel, sleep, food, and recovery
+- Betty and Anne dates both get calm execution
+- Rachel and Hannah both move one step forward or stay cleanly pending
+- conversation exports make the live state easier to manage
+- dating feels active without becoming the whole operating system
 
-## Live status
+## Live Status
 
-- Sunday, April 12, 2026: the first date with Anna went well
-- Tuesday, April 14, 2026: the followup lane has collapsed enough that the clean move is to move on instead of trying to negotiate chemistry into existence
-- Monday, April 20, 2026: travel week is survival mode; dating is optional support, not a required output lane
+- Wednesday, April 29, 2026: Betty at Hello, Marjorie after work
+- Thursday, April 30, 2026: Anne at Secret Admirer after work
+- Rachel: trying for Monday or Tuesday after work, waiting on reply
+- Hannah: trying for next weekend, waiting on reply
 
 ## Flirty Practice
 
-- Treat this as a small skill lane, not a personality replacement project.
+- Still useful, but not the main job this week.
 - Good inputs: one short YouTube video, one lesson from `https://charismaoncommand.university/`, or one ChatGPT practice round.
 - Practice goal: study one idea, then turn it into `3 to 5` lines in your own voice.
-- Say the lines out loud if possible. If they sound slick, forced, or unlike you, they fail.
-- Use ChatGPT to help soften, simplify, or humanize lines, not to mass-produce cleverness.
-- The point is better warmth, teasing, and playful confidence, not memorizing canned banter.
+- Use it to get warmer and more relaxed, not to manufacture a new persona.
 
-## Anna rule now
+## Anna Rule Now
 
-- Count the date as real progress and real evidence that you can connect with someone good.
-- Do not chase, overinterpret, or try to win the thread back with cleverness.
-- Let the system learn from the good parts and redirect energy into better queue management and better opener support.
-- Do not force accidental in-person exposure if there is a real chance of running into her while the hit is still active; skipping a high-variance setting is a clean boundary, not cowardice.
+- Count the date as real evidence that good connection is possible.
+- Keep her out of the active operating queue.
+- Do not let a closed lane contaminate how you handle the women who are actually live this week.

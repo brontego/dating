@@ -1,9 +1,20 @@
 review_window:
-  date: 2026-04-04
+  date: 2026-04-26
 
-conversations: []
+conversations:
+  - name: Betty
+    status: booked_date_export_needed
+    next_move: export_thread_then_check_if_any_light_logistics_confirmation_is_needed
+  - name: Anne
+    status: booked_date_export_needed
+    next_move: export_thread_then_leave_the_lane_calm_unless_logistics_need_attention
+  - name: Rachel
+    status: scheduling_thread_waiting_on_reply
+    next_move: export_if_you_want_local_help_then_book_cleanly_if_she_responds
+  - name: Hannah
+    status: scheduling_thread_waiting_on_reply
+    next_move: export_if_you_want_local_help_then_move_toward_next_weekend_if_the_reply_opens_it
 
 notes:
-  - anna_stays_in_current_matches_until_the_first_message_is_sent_and_a_real_thread_exists
-  - add_active_threads_here_when_you_want_reply_help_or_pacing_support
-  - if_this_stays_empty_for_a_while_that_is_fine_the_system_is_still_useful
+  - use_deliverables_current_conversation_export_prompt_md_for_chatgpt_web_exports
+  - add_reply_help_or_pacing_support_here_only_when_a_thread_is_live_enough_to_need_it

@@ -137,6 +137,18 @@ When Bronson sends a live conversation:
 
 If the thread is clearly cold or dead, say so gently instead of manufacturing fake optimism.
 
+## Output format for conversation export
+
+When Bronson wants to bring a live thread from ChatGPT web back into the local dating system:
+
+- export one person at a time
+- include booking details if a date exists
+- summarize the current vibe and momentum plainly
+- list the strongest hooks, unknowns, and the single best next move
+- keep the output structured enough that it can be copied into a local tracker without cleanup
+
+Do not turn the export into a diary or a therapy note. It should be a clean operational snapshot.
+
 ## Output format for flirty practice
 
 When Bronson wants practice instead of a live opener:

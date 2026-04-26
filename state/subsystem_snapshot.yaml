@@ -1,25 +1,23 @@
 system: dating
-week_of: 2026-04-20
+week_of: 2026-04-27
 status: green
-next_required_update_by: 2026-04-27
+next_required_update_by: 2026-05-03
 active_goals:
-  - keep_dating_optional_and_bounded_during_work_travel
-  - preserve_the_chatgpt_dating_copilot_and_flirty_practice_lanes_without_forcing_output
-  - avoid_rebound_swiping_or_background_checking_when_travel_stress_hits
-  - treat_any_hinge_use_as_one_small_real_action_block
+  - execute_two_booked_dates_calmly
+  - move_rachel_and_hannah_toward_clearer_states_without_chasing
+  - bring_live_conversation_state_back_from_chatgpt_web_into_the_local_system
 capacity_demand:
-  time_hours: 0.5
-  cognitive_load: low
+  time_hours: 1.5
+  cognitive_load: medium
 risks:
-  - travel_stress_can_turn_hinge_into_numbing_or_background_checking
-  - anna_disappointment_can_still_trigger_rebound_swiping_or_doom_storytelling
-  - flirty_practice_can_become_performance_pressure_if_it_is_required_during_a_survival_week
+  - multiple_live_lanes_can_turn_into_overtexting_or_logistics_noise
+  - anna_residue_could_distort_how_the_new_people_get_read
+  - dates_this_week_could_accidentally_restart_presentation_spend_pressure
 cross_system_checks:
-  - aligned | one_way | target=budgeting | topic=low_cost_optional | need=Dating and flirty practice should stay optional and low-cost during travel week.
-  - aligned | one_way | target=oversystem | topic=bounded_attention | need=Dross should not treat dating output as required this week.
+  - aligned | one_way | target=budgeting | topic=do_not_spend_because_dates_exist | need=Date week is not permission for wardrobe or apartment rush spending.
+  - aligned | one_way | target=oversystem | topic=real_date_week | need=Dross should treat Dating as active and real this week, not optional travel filler.
 requests_for_other_systems:
-  - oversystem: keep_dating_optional_during_travel_week
-  - budgeting: do_not_interpret_dating_as_a_reason_for_new_presentation_spend_this_week
+  - budgeting: keep_date_execution_separate_from_optional_spend_reopening
+  - oversystem: protect_evening_bandwidth_for_wednesday_and_thursday_dates
 lessons_candidate:
-  - flirty_practice_can_stay_available_without_becoming_a_weekly_obligation
-  - travel_week_dating_success_is_bounded_attention_not_output
+  - once_multiple_real_people_exist_the_system_needs_a_live_date_queue_and_export_workflow_more_than_generic_hinge_reboot_energy
